@@ -49,8 +49,3 @@ Frequency: every **8 minutes**
 - `to_dict()` → Converts dataset into structured form
 
 ---
-
-# ▶️ How to Run
-
-```bash
-python metro_simulator.py
